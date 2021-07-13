@@ -10,7 +10,7 @@
         <AssemblyName>dotnet-pfx2pem</AssemblyName>
         <Authors>konstantin.lapeev@gmail.com</Authors>
         <Title>pfx2pem</Title>
-        <Description>dotnet tool to convert pfx certificate to pem format</Description>
+        <Description>dotnet tool for converting pfx certificate to pem format.</Description>
         <AssemblyVersion>1.0.1</AssemblyVersion>
         <InformationalVersion>1.0.1 beta</InformationalVersion>
         <PackageVersion>1.0.1</PackageVersion>
